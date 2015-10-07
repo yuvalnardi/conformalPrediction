@@ -3,7 +3,7 @@ inductiveConformalPrediction <- function(data, alpha = 0.05, n1 = NULL,
                                          gridSize = 100, showPlot = TRUE){
   # Performs 2-dimensional Inductive Conformal Prediction using user supplied conformity measure
   #
-  # Args:
+  # Args: eee
   #  data:        data matrix, data.frame with 2 columns (variables)
   #  alpha:       significance level (1-alpha is the prediction confidence level)
   #  n1:          split data by the first n1 rows
