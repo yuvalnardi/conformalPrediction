@@ -1,2 +1,3 @@
 test file
 anotehr line
+3rd line
